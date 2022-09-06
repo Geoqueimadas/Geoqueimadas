@@ -11,18 +11,25 @@
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 </div>
 
-<div>
+<div style="gap: 10px">
 
   ![Tailwind css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 </div>
 
 
 ## Status do projeto
 <br/><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geoqueimadas&show_icons=true&theme=radical)
-<br/>
+![Geoqueimadas GitHub stats](https://github-readme-stats.vercel.app/api?username=Geoqueimadas&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geoqueimadas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Colaboradores do projeto
+
+- [Gabriel Vinicius Pagnan](github.com/Gabriel-pagnan)
 
 <!--
 **Geoqueimadas/Geoqueimadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
