@@ -29,7 +29,7 @@
 
 ### Colaboradores do projeto
 
-- [Gabriel Vinicius Pagnan](github.com/Gabriel-pagnan)
+- [Gabriel Vinicius Pagnan](https://github.com/Gabriel-pagnan)
 
 <!--
 **Geoqueimadas/Geoqueimadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
