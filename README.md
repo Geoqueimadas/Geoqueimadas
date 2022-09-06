@@ -22,7 +22,7 @@
 ## Status do projeto
 <br/><br/>
 
-![Geoqueimadas GitHub stats](https://github-readme-stats.vercel.app/api?username=Geoqueimadas&show_icons=true&theme=radical)
+![Geoqueimadas GitHub stats](https://github-readme-stats.vercel.app/api?username=Geoqueimadas&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geoqueimadas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -30,6 +30,9 @@
 ### Colaboradores do projeto
 
 - [Gabriel Vinicius Pagnan](https://github.com/Gabriel-pagnan)
+- [Leonardo Alves Costa](https://github.com/leonardoalvescosta)
+- [Rafael Cesar Ferreira](https://github.com/rafaelcf00)
+
 
 <!--
 **Geoqueimadas/Geoqueimadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
