@@ -1,4 +1,5 @@
-![Banner2](https://user-images.githubusercontent.com/112758143/188643022-dff17732-c064-4359-8c1d-bf9b8890a70c.png)
+![BannerV2 1](https://user-images.githubusercontent.com/112758143/189362833-1fa05133-9047-45bc-b2ad-f5d02c7d7f8e.png)
+
 
 
 ## Tecnologias utilizadas
@@ -32,7 +33,7 @@
 - [Gabriel Vinicius Pagnan](https://github.com/Gabriel-pagnan)
 - [Leonardo Alves Costa](https://github.com/leonardoalvescosta)
 - [Rafael Cesar Ferreira](https://github.com/rafaelcf00)
-
+- [Rafael Malaquias Chioca](https://github.com/rafaelchioca)
 
 <!--
 **Geoqueimadas/Geoqueimadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
