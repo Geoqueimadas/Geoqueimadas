@@ -1,4 +1,4 @@
-![BannerV2 1](https://user-images.githubusercontent.com/112758143/189362833-1fa05133-9047-45bc-b2ad-f5d02c7d7f8e.png)
+![BannerGeoQueimadas](https://raw.githubusercontent.com/Geoqueimadas/documentacao/main/BannerGeoQueimadas.png)
 
 ### Trabalho realizado como  PROJETO INTERDISCIPLINAR, previsto pelo curso Desenvolvimento de software multiplataforma da Faculdade de Tecnologia de Franca Dr Thomaz Novelino
 
